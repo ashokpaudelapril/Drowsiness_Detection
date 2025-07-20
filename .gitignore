@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS system files
+.DS_Store
+
+# PyCharm / VSCode project settings
+.idea/
+.vscode/
+
+# Logs and debug files
+*.log
+
+# Compiled model or cache files
+*.tflite
+*.pb
+*.onnx
+
+# Output and temporary files
+*.tmp
+*.bak
+
+# Camera capture cache or frames
+frames/
+captures/
+
+# Testing and profiling
+*.prof
+*.coverage
+htmlcov/
+
+# Pygame specific (if you save screenshots or audio/video)
+*.mp4
+*.wav
+*.avi
+*.png
+*.jpg
+
+# Local configuration
+.env
